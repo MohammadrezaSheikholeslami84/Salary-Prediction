@@ -50,14 +50,23 @@ The dataset includes the following:
      - `max_depth`, `min_samples_split`, `n_estimators` for tree-based models
      - `C`, `penalty` for logistic regression
    - Use **cross-validation** to prevent overfitting
-    
+   - 
+8. **Model Comparison**:  
+   - Compare the performance of different algorithms.  
+   - Select the best model based on balanced metrics.  
+
+    <img width="534" height="642" alt="image" src="https://github.com/user-attachments/assets/9d0319b3-b92f-4ac5-b214-37d02f5644de" />
+
+
+    <img width="2990" height="1790" alt="image" src="https://github.com/user-attachments/assets/7aa67357-1b7f-48e3-b734-1db914d2ddcb" />
+
+
 8. **Conclusion**:
    - Summarize key findings and best-performing model
+  
+   <img width="805" height="295" alt="image" src="https://github.com/user-attachments/assets/d55854c5-044d-4e9c-88ce-748f6d5eeb4e" />
+
    
-     <img width="539" height="650" alt="image" src="https://github.com/user-attachments/assets/53e3e853-2a6e-472c-875b-7b5727a54151" />
-
-
-     <img width="2990" height="1790" alt="image" src="https://github.com/user-attachments/assets/47b782ed-269c-412b-b067-5fba23be723a" />
 
 
 
